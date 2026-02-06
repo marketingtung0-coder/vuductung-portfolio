@@ -33,7 +33,7 @@ const Contact: React.FC = () => {
                 <div className="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center">
                   <Globe size={20} />
                 </div>
-                <span className="text-lg">TP. Hồ Chí Minh, Việt Nam</span>
+                <span className="text-lg">TP. Hà Nội, Việt Nam</span>
               </div>
             </div>
           </div>
